@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prakarshgour
+- 🌱 I’m currently working as an Associate Software Engineer at MindBody, Pune, India.
+- 📫 Reach me at prakrashgour0900@gmail.com
